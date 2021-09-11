@@ -1,15 +1,15 @@
 # Tox - Custom Packets Registry
 
-Tox Packet ID is a ```uint8_t```
-the valid packet range is from ```0 ... 254```
-(255 is not included, i do not know the reason for this)
+Tox Packet ID is a ```uint8_t``` <br>
+the valid packet range is from ```0 ... 254``` <br>
+(255 is not included, i do not know the reason for this) <br>
 
 the packet ranges are defined here:
 https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxcore/net_crypto.h#L23-L42
 
-kind:
-```LS lossless```
-```LY lossy```
+kind: <br>
+```LS lossless``` <br>
+```LY lossy``` <br>
 
 ### tabular form:
 
