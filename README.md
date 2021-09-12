@@ -27,7 +27,7 @@ kind: <br>
 | 167            | LS |                                           |
 | 168            | LS |                                           |
 | 169            | LS |                                           |
-| 170            | LS | TRIfA, Zoxcore                            | ttps://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/jni-c-toxcore/jni-c-toxcore.c#L1029 <br> https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxutil/toxutil.c#L41
+| 170            | LS | TRIfA, Zoxcore                            | https://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/jni-c-toxcore/jni-c-toxcore.c#L1029 <br> https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxutil/toxutil.c#L41
 | 171            | LS |                                           |
 | 172            | LS | ToxExt, TRIfA                             | https://github.com/toxext/toxext/blob/37449a144e0b03821f707c7847d595444956cc03/src/toxext.c#L10 <br> https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxav/rtp.c#L1260
 | 173            | LS |                                           |
