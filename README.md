@@ -15,8 +15,8 @@ kind: <br>
 
 |Packet ID       |kind|used by                                    | link
 |:---------------|:---|:------------------------------------------|:-------------
-| [0..15]        | LS | reserved for net_crypto internal use      | https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxcore/net_crypto.h#L23-L42
-| [16..159]      | LS | reserved for Messenger internal use       | https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxcore/net_crypto.h#L23-L42
+| [0..15]        | LS | reserved for net_crypto internal use      | https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxcore/net_crypto.h#L23-L42
+| [16..159]      | LS | reserved for Messenger internal use       | https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxcore/net_crypto.h#L23-L42
 | 160            | LS | ToxPhone                                  | https://github.com/hkarel/ToxPhone/blob/ce03405652b4ae80ef1dbc4b72b2b5048ec53668/src/toxphone/tox/tox_func.cpp#L131
 | 161            | LS |                                           |
 | 162            | LS |                                           |
@@ -27,9 +27,9 @@ kind: <br>
 | 167            | LS |                                           |
 | 168            | LS |                                           |
 | 169            | LS |                                           |
-| 170            | LS | TRIfA, Zoxcore                            | https://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/jni-c-toxcore/jni-c-toxcore.c#L1029 <br> https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxutil/toxutil.c#L41
+| 170            | LS | TRIfA, Zoxcore                            | ttps://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/jni-c-toxcore/jni-c-toxcore.c#L1029 <br> https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxutil/toxutil.c#L41
 | 171            | LS |                                           |
-| 172            | LS | ToxExt, TRIfA                             | https://github.com/toxext/toxext/blob/master/src/toxext.c#L10 <br> https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxav/rtp.c#L1260
+| 172            | LS | ToxExt, TRIfA                             | https://github.com/toxext/toxext/blob/37449a144e0b03821f707c7847d595444956cc03/src/toxext.c#L10 <br> https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxav/rtp.c#L1260
 | 173            | LS |                                           |
 | 174            | LS | isotoxin                                  | https://github.com/isotoxin/isotoxin/blob/master/source/plugins/proto_tox/proto_tox.cpp#L88
 | 175            | LS | TRIfA, ToxProxy, isotoxin                 | https://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/android-refimpl-app/app/src/main/java/com/zoffcc/applications/trifa/TRIFAGlobals.java#L221-L226 <br> https://github.com/kaefert/ToxProxy/blob/master/src/ToxProxy.c#L1404 <br> https://github.com/isotoxin/isotoxin/blob/master/source/plugins/proto_tox/proto_tox.cpp#L89
@@ -49,7 +49,7 @@ kind: <br>
 | 189            | LS |                                           |
 | 190            | LS |                                           |
 | 191            | LS |                                           |
-| [192..199]     | LY | reserved for ToxAV internal use           | https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxcore/net_crypto.h#L23-L42
+| [192..199]     | LY | reserved for ToxAV internal use           | https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxcore/net_crypto.h#L23-L42
 | 200            | LY |                                           |
 | 201            | LY |                                           |
 | 202            | LY |                                           |
