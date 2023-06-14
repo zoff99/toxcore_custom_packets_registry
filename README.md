@@ -137,7 +137,7 @@ https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxav/bwcontr
 170 lossless
 https://github.com/zoff99/c-toxcore/blob/zoff99/zoxcore_local_fork/toxutil/toxutil.c#L41
 
-CAP_PACKET_ID: use to signal for toxuil extension
+CAP_PACKET_ID: use to signal for toxutil extension
 
 #### ToxExt:
 
