@@ -17,8 +17,8 @@ kind: <br>
 |:---------------|:---|:------------------------------------------|:-------------
 | [0..15]        | LS | reserved for net_crypto internal use      | https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxcore/net_crypto.h#L23-L42
 | [16..159]      | LS | reserved for Messenger internal use       | https://github.com/zoff99/c-toxcore/blob/f5c2c56560011dba380f99fd7b895516d90a0df6/toxcore/net_crypto.h#L23-L42
-| 160            | LS | ToxPhone                                  | https://github.com/hkarel/ToxPhone/blob/ce03405652b4ae80ef1dbc4b72b2b5048ec53668/src/toxphone/tox/tox_func.cpp#L131
-| 161            | LS |                                           |
+| 160            | LS | ToxPhone,toxic                            | https://github.com/hkarel/ToxPhone/blob/ce03405652b4ae80ef1dbc4b72b2b5048ec53668/src/toxphone/tox/tox_func.cpp#L131 <br> https://github.com/JFreegman/toxic/blob/5fba494909efd47794497c97481d39daf715b464/src/windows.h#L48
+| 161            | LS | toxic                                     | https://github.com/JFreegman/toxic/blob/5fba494909efd47794497c97481d39daf715b464/src/windows.h#L49
 | 162            | LS |                                           |
 | 163            | LS |                                           |
 | 164            | LS |                                           |
