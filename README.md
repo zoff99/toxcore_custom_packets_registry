@@ -39,7 +39,7 @@ kind: <br>
 | 179            | LS | TRIfA, ToxProxy                           | https://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/android-refimpl-app/app/src/main/java/com/zoffcc/applications/trifa/TRIFAGlobals.java#L221-L226 <br> https://github.com/kaefert/ToxProxy/blob/master/src/ToxProxy.c#L1394
 | 180            | LS |                                           |
 | 181            | LS | TRIfA                                     | https://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/jni-c-toxcore/jni-c-toxcore.c#L1031
-| 182            | LS |                                           |
+| 182            | LS | TRIfA                                     | reserved for FTV2a
 | 183            | LS |                                           |
 | 184            | LS |                                           |
 | 185            | LS |                                           |
