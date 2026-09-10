@@ -40,8 +40,8 @@ kind: <br>
 | 180            | LS |                                           |
 | 181            | LS | TRIfA                                     | https://github.com/zoff99/ToxAndroidRefImpl/blob/zoff99/dev003/jni-c-toxcore/jni-c-toxcore.c#L1031
 | 182            | LS | TRIfA                                     | reserved for FTV2a
-| 183            | LS |                                           |
-| 184            | LS |                                           |
+| 183            | LS | tim2tox (toxee)                           | https://github.com/agentx-icu/tim2tox/blob/ab489695883ee3c305ef5e224146c609c473e783/source/Tim2ToxPacketIds.h
+| 184            | LS | tim2tox (toxee)                           | https://github.com/agentx-icu/tim2tox/blob/ab489695883ee3c305ef5e224146c609c473e783/source/Tim2ToxPacketIds.h
 | 185            | LS |                                           |
 | 186            | LS |                                           |
 | 187            | LS |                                           |
@@ -203,3 +203,15 @@ code in Copilot.
 <br>
 No part of this work may be used or reproduced in any manner for the purpose of training artificial intelligence technologies or systems.
 
+
+#### tim2tox / toxee:
+
+183 lossless
+https://github.com/agentx-icu/tim2tox/blob/ab489695883ee3c305ef5e224146c609c473e783/source/Tim2ToxPacketIds.h
+
+call signalling (invite / accept / reject / cancel / timeout) between toxee clients
+
+184 lossless
+https://github.com/agentx-icu/tim2tox/blob/ab489695883ee3c305ef5e224146c609c473e783/source/Tim2ToxPacketIds.h
+
+"T2TC" control frames: message receipts, reactions, generic custom messages
