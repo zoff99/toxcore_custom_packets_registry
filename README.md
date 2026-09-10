@@ -195,15 +195,6 @@ PACKETID_AUDIO_EX: used for custom audio
 162 lossless
 https://github.com/gjedeer/tuntox/blob/54289f5c94db7d8c14d228eb8dd0ba90d20c33db/main.h#L33
 
-
-<br>
-Any use of this project's code by GitHub Copilot, past or present, is done
-without our permission.  We do not consent to GitHub's use of this project's
-code in Copilot.
-<br>
-No part of this work may be used or reproduced in any manner for the purpose of training artificial intelligence technologies or systems.
-
-
 #### tim2tox / toxee:
 
 183 lossless
@@ -215,3 +206,15 @@ call signalling (invite / accept / reject / cancel / timeout) between toxee clie
 https://github.com/agentx-icu/tim2tox/blob/ab489695883ee3c305ef5e224146c609c473e783/source/Tim2ToxPacketIds.h
 
 "T2TC" control frames: message receipts, reactions, generic custom messages
+
+
+
+
+
+
+<br>
+Any use of this project's code by GitHub Copilot, past or present, is done
+without our permission.  We do not consent to GitHub's use of this project's
+code in Copilot.
+<br>
+No part of this work may be used or reproduced in any manner for the purpose of training artificial intelligence technologies or systems.
